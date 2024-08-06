@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Udai-Senevirathne
+- 👋 Hi, I’m DANDY
 - 👀 I’m interested in coding,designing,etc
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on working 
