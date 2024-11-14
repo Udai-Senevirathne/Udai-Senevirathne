@@ -10,9 +10,9 @@
 
 ## Don't Forget To Follow Me.
 
-| YourName's GitHub Stats | Most Used Languages |
-| ------------------------ | ------------------- |
-| **Total Stars Earned:** 345 <br> **Total Commits (2024):** 765 <br> **Total PRs:** 3 <br> **Total Issues:** 0 <br> **Contributed to (last year):** 1 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical) |
+--| YourName's GitHub Stats | Most Used Languages |
+--| ------------------------ | ------------------- |
+--| **Total Stars Earned:** 345 <br> **Total Commits (2024):** 765 <br> **Total PRs:** 3 <br> **Total Issues:** 0 <br> **Contributed to (last year):** 1 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?----username=yourusername&layout=compact&theme=radical) |
 
 ---
 
