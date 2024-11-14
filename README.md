@@ -1,4 +1,9 @@
-# Hi I am Udai Senevirathne
+<h1 align="center">
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&size=30&center=true&vCenter=true&width=450&lines=Hi+I+am+Udai+Senevirathne" alt="Hi I am Udai Senevirathne">
+  </a>
+</h1>
+
 
 ![Views](https://komarev.com/ghpvc/?username=yourusername&color=green&style=flat-square)
 [![Forks](https://img.shields.io/github/forks/yourusername/yourrepo.svg)](https://github.com/yourusername/yourrepo/network/members)
