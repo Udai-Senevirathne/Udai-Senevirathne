@@ -1,4 +1,4 @@
-# HI I am UDAI SENEVIRATHNE 
+# Hi I am Udai Senevirathne
 
 ![Views](https://komarev.com/ghpvc/?username=yourusername&color=green&style=flat-square)
 [![Forks](https://img.shields.io/github/forks/yourusername/yourrepo.svg)](https://github.com/yourusername/yourrepo/network/members)
