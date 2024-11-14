@@ -1,18 +1,18 @@
 <h1 align="left">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Udai-Senevirathne">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&size=30&center=true&vCenter=true&width=450&lines=Hi+I+am+Udai+Senevirathne" alt="Hi there, I am Udai Senevirathne">
   </a>
 </h1>
 
 
 
-![Views](https://komarev.com/ghpvc/?username=yourusername&color=green&style=flat-square)
-[![Forks](https://img.shields.io/github/forks/yourusername/yourrepo.svg)](https://github.com/yourusername/yourrepo/network/members)
-[![Stars](https://img.shields.io/github/stars/yourusername/yourrepo.svg)](https://github.com/yourusername/yourrepo/stargazers)
+![Views](https://komarev.com/ghpvc/?username=Udai-Senevirathne&color=green&style=flat-square)
+[![Forks](https://img.shields.io/github/forks/Udai-Senevirathne/yourrepo.svg)](https://github.com/Udai-Senevirathne/yourrepo/network/members)
+[![Stars](https://img.shields.io/github/stars/Udai-Senevirathne/yourrepo.svg)](https://github.com/Udai-Senevirathne/yourrepo/stargazers)
 
-![Repo Size](https://img.shields.io/github/repo-size/yourusername/yourrepo)
-![License](https://img.shields.io/github/license/yourusername/yourrepo)
-![Author](https://img.shields.io/badge/Author-yourname-purple)
+![Repo Size](https://img.shields.io/github/repo-size/Udai-Senevirathne/yourrepo)
+![License](https://img.shields.io/github/license/Udai-Senevirathne/yourrepo)
+![Author](https://img.shields.io/badge/Author-UdaiSenevirathne-purple)
 
 ## Don't Forget To Follow Me.
 
