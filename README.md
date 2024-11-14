@@ -1,6 +1,6 @@
 <h1 align="left">
   <a href="https://github.com/Udai-Senevirathne">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&size=30&center=true&vCenter=true&width=450&lines=Hi+I+am+Udai+Senevirathne" alt="Hi, I am Udai Senevirathne !">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&size=30&center=true&vCenter=true&width=450&lines=Hi+there+👋+,+I+am+Udai+Senevirathne +!" alt="Hi, I am Udai Senevirathne !">
   </a>
 </h1>
 
