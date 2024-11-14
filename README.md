@@ -1,8 +1,9 @@
 <h1 align="left">
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/yourusername">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&size=30&center=true&vCenter=true&width=450&lines=Hi+I+am+Udai+Senevirathne" alt="Hi there, I am Udai Senevirathne">
   </a>
 </h1>
+
 
 
 ![Views](https://komarev.com/ghpvc/?username=yourusername&color=green&style=flat-square)
