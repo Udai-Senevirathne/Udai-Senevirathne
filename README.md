@@ -20,12 +20,12 @@
 
 - 👨‍💻 I'm Udai Senevirathne
 - 🎂 I'm 21 years old
-- 👀 I'm interested in [HTML, CSS, JavaScript, C++, Hacking, Web Development, etc.]
+- 👀 I'm interested in [HTML, CSS, JavaScript, C++, Hacking, Web Development,Kotlin etc.]
 - 📖 I'm currently studying Higher National Diploma in Software Engineering at National Institute of Bussiness Management.
 - 👥 I'm also a member of NIBM Computer Society
 - 💻 Looking to collaborate on projects involving web development, Linux tools, server operations, etc.
 - 📧 Contact me via email at udaisenevirathne@gmail.com
-- 📸 Connect me on LinkdIn https://www.linkedin.com/in/udai-senevirathne
+- 📸 Connect me on LinkdIn www.linkedin.com/in/udai-senevirathne-7a403b278
 
 
 ---
