@@ -1,4 +1,4 @@
-# Hi there 👋
+# UDAI SENEVIRATHNE 
 
 ![Views](https://komarev.com/ghpvc/?username=yourusername&color=green&style=flat-square)
 [![Forks](https://img.shields.io/github/forks/yourusername/yourrepo.svg)](https://github.com/yourusername/yourrepo/network/members)
@@ -9,12 +9,6 @@
 ![Author](https://img.shields.io/badge/Author-yourname-purple)
 
 ## Don't Forget To Follow Me.
-
---| YourName's GitHub Stats | Most Used Languages |
---| ------------------------ | ------------------- |
---| **Total Stars Earned:** 345 <br> **Total Commits (2024):** 765 <br> **Total PRs:** 3 <br> **Total Issues:** 0 <br> **Contributed to (last year):** 1 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?----username=yourusername&layout=compact&theme=radical) |
-
----
 
 ## Hi there 👋
 
