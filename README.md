@@ -28,7 +28,7 @@
 - 👥 I'm also a member of NIBM Computer Society
 - 💻 Looking to collaborate on projects involving web development, Linux tools, server operations, etc.
 - 📧 Contact me via email at udaisenevirathne@gmail.com
-- 📸 Connect me on LinkdIn www.linkedin.com/in/udai-senevirathne-7a403b278
+- 📸 Connect me on LinkdIn www.linkedin.com/in/udai-senevirathne
 
 
 ---
