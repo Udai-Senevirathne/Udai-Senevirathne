@@ -25,7 +25,6 @@
 - 🎂 I'm 22 years old
 - 👀 I'm interested in [HTML, CSS, JavaScript, C++, Web Development, SpringBoot, Kotlin etc.]
 - 📖 I'm currently studying Higher National Diploma in Software Engineering at National Institute of Bussiness Management.
-- 👥 I'm also a member of NIBM Computer Society
 - 💻 Looking to collaborate on projects involving web development, Linux tools, server operations, etc.
 - 📧 Contact me via email at udaisenevirathne@gmail.com
 - 📸 Connect me on LinkdIn www.linkedin.com/in/udai-senevirathne
