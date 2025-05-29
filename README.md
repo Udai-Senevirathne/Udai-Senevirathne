@@ -1,35 +1,51 @@
-<h1 align="left">
-  <a href="https://github.com/Udai-Senevirathne">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&size=30&center=true&vCenter=true&width=450&lines=Hi+there+👋;I+am+Udai+Senevirathne!" alt="Hi, I am Udai Senevirathne !">
-  </a>
-</h1>
+<h1 align="center">Hey there 👋, I'm Udai Senevirathne</h1>
 
-
-
-
-
-
-![Views](https://komarev.com/ghpvc/?username=Udai-Senevirathne&color=green&style=flat-square)
-[![Forks](https://img.shields.io/github/forks/Udai-Senevirathne/yourrepo.svg)](https://github.com/Udai-Senevirathne/yourrepo/network/members)
-[![Stars](https://img.shields.io/github/stars/Udai-Senevirathne/yourrepo.svg)](https://github.com/Udai-Senevirathne/yourrepo/stargazers)
-
-![Repo Size](https://img.shields.io/github/repo-size/Udai-Senevirathne/yourrepo)
-![License](https://img.shields.io/github/license/Udai-Senevirathne/yourrepo)
-![Author](https://img.shields.io/badge/Author-UdaiSenevirathne-purple)
-
-## Don't Forget To Follow Me.
-
-## Hi there 👋
-
-- 👨‍💻 I'm Udai Senevirathne
-- 🎂 I'm 22 years old
-- 👀 I'm interested in [HTML, CSS, JavaScript, C++, Web Development, SpringBoot, Kotlin etc.]
-- 📖 I'm currently studying Higher National Diploma in Software Engineering at National Institute of Bussiness Management.
-- 💻 Looking to collaborate on projects involving web development, Linux tools, server operations, etc.
-- 📧 Contact me via email at udaisenevirathne@gmail.com
-- 📸 Connect me on LinkdIn www.linkedin.com/in/udai-senevirathne
-
+<p align="center">
+  🚀 Software Engineering Undergraduate @ NIBM <br>
+  💡 Passionate about building useful tech & mobile apps <br>
+  🌱 Currently learning: Flutter, AI, Spring Boot, Clean Architecture <br>
+  📫 Let's connect! 👉 <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a> | <a href="mailto:your.email@example.com">Email</a>
+</p>
 
 ---
 
-**Thanks for visiting!**
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="180"/>
+</div>
+
+---
+
+## 🧠 Currently Working On
+
+- 📱 DreamTone – AI-based sleep & wellness mobile app
+- 🎓 Final year project on AI-integrated mindfulness tech
+- 🧪 Exploring Machine Learning with Python
+
+---
+
+## 📫 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p>
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and leave a star if you find something useful.*
+
