@@ -132,15 +132,6 @@ Learning & Exploring:
 
 ## 🏆 Professional Highlights
 
-<div align="center">
-
-| 🎓 **Education** | 💼 **Development** | 🌟 **Specialization** |
-|:---:|:---:|:---:|
-| Software Engineering | Mobile-First Approach | Cross-Platform Development |
-| NIBM Institute | Full Stack Solutions | UI/UX Implementation |
-| Modern Methodologies | Clean Architecture | Performance Optimization |
-
-</div>
 
 ### 📈 Development Approach
 - **Mobile-first** design philosophy
