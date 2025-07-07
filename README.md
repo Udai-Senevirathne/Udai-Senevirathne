@@ -113,19 +113,20 @@ class Developer {
 ### 🚧 Currently Building
 ```yaml
 Mobile Apps:
-  - E-commerce platform with Flutter
-  - Real-time chat application
-  - Task management system with offline sync
+  - E-commerce App with Flutter
+  - Real-time weather update App
+  - Emergency Incident Reporting App
 
 Web Applications:
   - Portfolio management dashboard
-  - Learning management system
-  - API-first content management platform
+  - Gym Management system
+  - E-Commerce Platforms
 
 Learning & Exploring:
   - Cloud deployment (AWS/Firebase)
   - Advanced Flutter animations
   - GraphQL and modern API design
+
 ```
 
 ---
