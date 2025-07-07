@@ -17,7 +17,7 @@
 ```dart
 class Developer {
   final String name = "Udai Senevirathne";
-  final String role = "Software Engineering Student";
+  final String role = "Software Engineering Undergraduate";
   final String location = "Sri Lanka 🇱🇰";
   final String institution = "National Institute of Business Management";
   
