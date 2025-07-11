@@ -1,8 +1,8 @@
-<div align="center">
+ <div align="center">
   
 # Hi there, I'm Udai Senevirathne 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=2D63FF&center=true&vCenter=true&width=600&lines=Software+Engineering+undergraduate;Mobile+%26+Web+Developer;Flutter+%7C+React+%7C+Spring+Boot;Always+learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=2D63FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;Mobile+%26+Web+Developer;Flutter+%7C+React+%7C+Spring+Boot;Always+learning+Something+New)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Udai-Senevirathne)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaisenevirathne@gmail.com)
