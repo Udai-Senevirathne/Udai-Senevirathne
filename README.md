@@ -1,12 +1,8 @@
+# 👋 Hello, I'm Udai Senevirathne!
+
 <div align="center">
-   
-# Hi there, I'm Udai Senevirathne 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=2D63FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;Mobile+%26+Full+Stack+Developer;Flutter+%7C+React+%7C+Spring+Boot;Building+Innovative+Solutions+🚀)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Udai-Senevirathne)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaisenevirathne@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Udai-Senevirathne)
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2D63FF&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;Mobile+%26+Web+Specialist+%F0%9F%92%BB;Flutter+%7C+React+%7C+Spring+Boot+Expert+%F0%9F%8E%AF;Passionate+About+Building+Amazing+Apps!+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,382 +10,482 @@
 
 ## 🚀 About Me
 
-```dart
-class Developer {
-  final String name = "Udai Senevirathne";
-  final String role = "Software Engineering Undergraduate";
-  final String location = "Sri Lanka 🇱🇰";
-  final String institution = "National Institute of Business Management";
-  
-  List<String> expertise = [
-    "Mobile App Development",
-    "Full Stack Web Development", 
-    "UI/UX Design",
-    "Database Architecture",
-    "Cloud Integration"
-  ];
-  
-  Map<String, List<String>> currentlyWorking = {
-    "Mobile": ["Flutter", "Cross-platform apps", "State management"],
-    "Backend": ["Spring Boot", "RESTful APIs", "Microservices"],
-    "Frontend": ["React", "Modern JavaScript", "Responsive design"],
-    "Learning": ["Cloud architecture", "DevOps", "AI integration"]
-  };
-  
-  String motto = "Building the future, one line of code at a time";
-  
-  void sayHi() {
-    print("Thanks for visiting! Let's build something amazing together! 🚀");
-  }
-}
-```
+I'm a passionate **Full Stack Developer** specializing in **Mobile** and **Web Development**. With expertise in both frontend and backend technologies, I create seamless, scalable, and user-centric applications. Currently pursuing my degree in **Software Engineering** at **SLIIT** while working on innovative projects.
+
+- 🎓 **Software Engineering Undergraduate** at SLIIT
+- 💼 **Mobile & Web Developer** with hands-on project experience
+- 🌱 Currently mastering **Advanced Flutter**, **Spring Boot Microservices**, and **Cloud Architecture**
+- 🎯 Goal: Build impactful applications that solve real-world problems
+- ⚡ Fun fact: I love exploring new technologies and contributing to open-source!
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 💻 Tech Stack
 
 <div align="center">
 
 ### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### 🌐 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-### ⚙️ Backend & Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### ⚙️ Backend Development
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🧰 Development Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+### ☁️ Cloud & Services
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Current Focus & Projects
+## 📊 GitHub Stats
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=Udai-Senevirathne&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Udai-Senevirathne&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Udai-Senevirathne&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 📱 Mobile Development
-- **Flutter** cross-platform applications
-- **State management** with Bloc/Provider/Riverpod
-- **Custom UI components** and animations
-- **Firebase integration** and real-time features
-- **App store deployment** and CI/CD
-- **Native platform integration** and plugins
-- **Performance optimization** and testing
-
-</td>
-<td width="50%">
-
-### 🌐 Full Stack Development
-- **RESTful APIs** with Spring Boot
-- **React** frontend with modern hooks
-- **Database design** and optimization
-- **Authentication** and security implementation
-- **Microservices** architecture
-- **Cloud deployment** strategies
-- **API documentation** with Swagger/OpenAPI
-
-</td>
-</tr>
-</table>
-
-### 🚧 Currently Building
-
-```yaml
-Mobile Applications:
-  - E-commerce App: 
-      Tech: Flutter, Firebase, Payment Integration
-      Status: In Development
-      Features: Real-time cart, Order tracking, Push notifications
-      
-  - Weather Update App:
-      Tech: Flutter, REST API, Location Services
-      Status: Testing Phase
-      Features: Real-time weather, Forecasts, Beautiful UI
-      
-  - Emergency Incident Reporting:
-      Tech: Flutter, Firebase, Google Maps
-      Status: Active Development
-      Features: Real-time reporting, Location tracking, Admin dashboard
-
-Web Applications:
-  - Portfolio Management Dashboard:
-      Tech: React, Spring Boot, MongoDB
-      Status: Planning
-      Features: Analytics, Project showcase, Contact management
-      
-  - Gym Management System:
-      Tech: React, Spring Boot, MySQL
-      Status: In Development
-      Features: Member management, Billing, Workout tracking
-      
-  - E-Commerce Platform:
-      Tech: React, Spring Boot, Payment Gateway
-      Status: Active Development
-      Features: Product catalog, Cart, Order management
-
-Learning & Exploring:
-  - Cloud Architecture: AWS, Google Cloud, Firebase Advanced
-  - Advanced Flutter: Custom animations, Advanced state management
-  - Modern API Design: GraphQL, gRPC, WebSockets
-  - DevOps Practices: CI/CD pipelines, Containerization, Kubernetes
-  - AI/ML Integration: TensorFlow Lite, ML Kit, Smart features
-```
+</div>
 
 ---
 
-## 🏆 Professional Highlights & Achievements
-
-### 💼 Experience & Skills
-- 🎓 **Software Engineering Student** at National Institute of Business Management
-- 📱 **3+ Years** of mobile and web development experience
-- 🚀 Successfully delivered **10+ projects** across mobile and web platforms
-- 👥 Experienced in **Agile/Scrum** methodologies and team collaboration
-- 🏅 Strong foundation in **Data Structures & Algorithms**
-
-### 🎯 Certifications & Learning
-```
-✅ Mobile App Development with Flutter
-✅ Full Stack Web Development
-✅ Spring Boot Microservices
-✅ Database Design & Management
-✅ UI/UX Design Principles
-🔄 Currently Learning: AWS Cloud Practitioner, Docker & Kubernetes
-```
-
-### 📈 Development Philosophy
-- **Mobile-first** design approach
-- **Clean architecture** and SOLID principles
-- **Test-driven development** practices
-- **Agile methodologies** and sprint planning
-- **Version control** with Git workflows
-- **Code review** and continuous improvement
-- **Documentation-first** approach
-
----
-
-## 🎨 UI/UX & Design Excellence
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-7B61FF?style=for-the-badge&logo=flutter&logoColor=white)
-
-### 🎯 Design Principles & Approach
-
-**Core Design Values:**
-- ✨ Material Design 3 & Human Interface Guidelines
-- 📐 Responsive and adaptive layouts for all screen sizes
-- ♿ Accessibility-first approach (WCAG compliance)
-- 🎭 User-centered design thinking and research
-- 🎨 Consistent design systems and component libraries
-- 🔄 Iterative design process with user feedback
-
-**Design Process:**
-```
-Research → Wireframing → Prototyping → User Testing → Iteration → Development
-```
+![](https://github-profile-trophy.vercel.app/?username=Udai-Senevirathne&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
 
 ---
 
-## 📱 Mobile Development Mastery
+## 🔥 Contribution Graph
+
+<div align="center">
+
+[![Udai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Udai-Senevirathne&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 📈 Contribution Stats
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=Udai-Senevirathne&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+## 🏗️ Full Stack Development Mastery
 
 <div align="center">
 
 ```mermaid
 graph TD
-    A[Mobile Development] --> B[Flutter/Dart]
-    A --> C[Native Android]
-    B --> D[State Management]
-    B --> E[Custom Widgets]
-    B --> F[Animations]
-    B --> G[Platform Integration]
-    C --> H[Kotlin]
-    C --> I[Java]
-    D --> J[Bloc Pattern]
-    D --> K[Provider]
-    D --> L[Riverpod]
-    D --> M[GetX]
-    E --> N[Custom Painters]
-    E --> O[Complex Layouts]
-    F --> P[Implicit Animations]
-    F --> Q[Explicit Animations]
-    G --> R[Native APIs]
-    G --> S[Platform Channels]
+    A[Full Stack Development] --> B[Mobile Development]
+    A --> C[Frontend Development]
+    A --> D[Backend Development]
+    A --> E[Database & Cloud]
+    A --> F[DevOps & Tools]
+    
+    B --> B1[Flutter/Dart]
+    B --> B2[Native Android]
+    B --> B3[iOS Development]
+    
+    B1 --> B1a[State Management]
+    B1 --> B1b[Custom Widgets]
+    B1 --> B1c[Animations]
+    B1 --> B1d[Platform Integration]
+    
+    B1a --> B1a1[Bloc Pattern]
+    B1a --> B1a2[Provider]
+    B1a --> B1a3[Riverpod]
+    B1a --> B1a4[GetX]
+    
+    B2 --> B2a[Kotlin]
+    B2 --> B2b[Java]
+    B2 --> B2c[Android SDK]
+    
+    C --> C1[React]
+    C --> C2[JavaScript/TypeScript]
+    C --> C3[HTML5/CSS3]
+    C --> C4[UI Frameworks]
+    
+    C1 --> C1a[Hooks]
+    C1 --> C1b[Context API]
+    C1 --> C1c[Redux]
+    
+    C4 --> C4a[Tailwind CSS]
+    C4 --> C4b[Bootstrap]
+    C4 --> C4c[Material-UI]
+    
+    D --> D1[Spring Boot]
+    D --> D2[Node.js]
+    D --> D3[Python]
+    D --> D4[PHP]
+    
+    D1 --> D1a[REST APIs]
+    D1 --> D1b[Microservices]
+    D1 --> D1c[Spring Security]
+    D1 --> D1d[JPA/Hibernate]
+    
+    E --> E1[SQL Databases]
+    E --> E2[NoSQL Databases]
+    E --> E3[Cloud Services]
+    
+    E1 --> E1a[MySQL]
+    E1 --> E1b[PostgreSQL]
+    E1 --> E1c[Oracle]
+    E1 --> E1d[SQLite]
+    
+    E2 --> E2a[MongoDB]
+    E2 --> E2b[Firebase]
+    
+    E3 --> E3a[Firebase Cloud]
+    E3 --> E3b[AWS]
+    E3 --> E3c[Google Cloud]
+    
+    F --> F1[Version Control]
+    F --> F2[IDEs & Editors]
+    F --> F3[Design Tools]
+    F --> F4[Testing & API]
+    F --> F5[Containerization]
+    
+    F1 --> F1a[Git]
+    F1 --> F1b[GitHub]
+    
+    F2 --> F2a[VS Code]
+    F2 --> F2b[Android Studio]
+    F2 --> F2c[IntelliJ IDEA]
+    
+    F3 --> F3a[Figma]
+    F3 --> F3b[Adobe XD]
+    F3 --> F3c[FlutterFlow]
+    
+    F4 --> F4a[Postman]
+    F4 --> F4b[JUnit]
+    F4 --> F4c[Jest]
+    
+    F5 --> F5a[Docker]
+    
+    style A fill:#2D63FF,stroke:#1a3d99,color:#fff
+    style B fill:#02569B,stroke:#014578,color:#fff
+    style C fill:#61DAFB,stroke:#4ab8d4,color:#000
+    style D fill:#6DB33F,stroke:#578f32,color:#fff
+    style E fill:#4EA94B,stroke:#3d8539,color:#fff
+    style F fill:#F05032,stroke:#c93e26,color:#fff
 ```
 
 </div>
 
-### 🔑 Key Mobile Technologies & Expertise
+### 🔑 Comprehensive Technology Stack
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-**Flutter Framework**
-- 🎯 Cross-platform development (iOS/Android)
-- 🎨 Custom widget development
-- ⚡ Performance optimization
-- 🔄 Hot reload and rapid development
-- 📦 Plugin development and integration
-
-**State Management**
-- 🧱 Bloc Pattern (Business Logic Component)
-- 🔌 Provider for dependency injection
-- 🌊 Riverpod for modern state management
-- 💉 GetX for lightweight solutions
+**📱 Mobile Development**
+- 🎯 **Flutter & Dart**
+  - Cross-platform apps
+  - State management (Bloc, Provider, Riverpod, GetX)
+  - Custom widgets & animations
+  - Platform channels
+  - Hot reload development
+  
+- 📲 **Native Android**
+  - Kotlin & Java
+  - Android SDK & Jetpack
+  - Material Design
+  - Activity/Fragment lifecycle
+  
+- 🍎 **iOS Development**
+  - Flutter iOS deployment
+  - Platform-specific features
+  - App Store guidelines
 
 </td>
-<td width="50%">
+<td width="33%">
 
-**Native Integration**
-- 📲 Platform channels communication
-- 🔧 Native plugin development
-- 📍 Location services integration
-- 📷 Camera and media handling
-- 🔔 Push notifications (FCM)
+**🌐 Frontend Development**
+- ⚛️ **React Ecosystem**
+  - Modern React hooks
+  - Component architecture
+  - State management
+  - Context API & Redux
+  
+- 💻 **Web Technologies**
+  - JavaScript ES6+
+  - TypeScript
+  - HTML5 & CSS3
+  - Responsive design
+  
+- 🎨 **UI Frameworks**
+  - Tailwind CSS
+  - Bootstrap
+  - Material-UI
+  - Vite bundler
 
-**Development Practices**
-- 🧪 Unit, Widget, and Integration testing
-- 🏗️ Clean Architecture implementation
-- 📝 Code documentation
-- 🔍 Debugging and profiling
-- 🚀 App store deployment (Play Store/App Store)
+</td>
+<td width="33%">
+
+**⚙️ Backend Development**
+- ☕ **Java & Spring Boot**
+  - RESTful APIs
+  - Microservices
+  - Spring Security
+  - JPA/Hibernate ORM
+  
+- 🐍 **Multi-language**
+  - Python scripting
+  - Node.js runtime
+  - PHP web development
+  - C# applications
+  
+- 🔐 **Backend Features**
+  - Authentication & Authorization
+  - API documentation
+  - Error handling
+  - Logging & monitoring
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+**🗄️ Database Management**
+- 📊 **SQL Databases**
+  - MySQL
+  - PostgreSQL
+  - Oracle Database
+  - SQLite
+  
+- 📦 **NoSQL Solutions**
+  - MongoDB
+  - Firebase Realtime DB
+  - Firestore
+  
+- 🔍 **Database Skills**
+  - Schema design
+  - Query optimization
+  - Indexing strategies
+  - Migrations
+
+</td>
+<td width="33%">
+
+**☁️ Cloud & Services**
+- 🔥 **Firebase**
+  - Authentication
+  - Cloud Firestore
+  - Cloud Functions
+  - Cloud Storage
+  - FCM Push Notifications
+  
+- ☁️ **Cloud Platforms**
+  - AWS services
+  - Google Cloud Platform
+  - Hosting & deployment
+  
+- 🌐 **Integration**
+  - Third-party APIs
+  - Payment gateways
+  - Maps & location services
+
+</td>
+<td width="33%">
+
+**🛠️ DevOps & Tools**
+- 🔧 **Version Control**
+  - Git workflows
+  - GitHub Actions
+  - Branch strategies
+  
+- 💼 **Development Tools**
+  - VS Code
+  - Android Studio
+  - IntelliJ IDEA
+  - Postman API testing
+  
+- 🎨 **Design Tools**
+  - Figma prototyping
+  - Adobe XD
+  - FlutterFlow
+  
+- 🐳 **Containerization**
+  - Docker basics
+  - Container deployment
 
 </td>
 </tr>
 </table>
 
----
-
-## 🌟 Featured Projects & Portfolio
+### 🎯 Development Practices & Methodologies
 
 <div align="center">
 
-### 🎯 Check out my repositories for more amazing projects!
-
-[![Repos Badge](https://img.shields.io/badge/View_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Udai-Senevirathne?tab=repositories)
+| Category | Technologies & Practices |
+|----------|-------------------------|
+| **🏗️ Architecture** | Clean Architecture, MVVM, MVC, Repository Pattern, Dependency Injection |
+| **🧪 Testing** | Unit Testing, Widget Testing, Integration Testing, JUnit, Jest, Test Coverage |
+| **📝 Documentation** | README files, API Documentation, Code Comments, Swagger/OpenAPI |
+| **🔄 Version Control** | Git, GitHub, Pull Requests, Code Reviews, Branch Management |
+| **🚀 CI/CD** | GitHub Actions, Automated Testing, Build Automation, Deployment Pipelines |
+| **📊 Project Management** | Agile/Scrum, Jira, Sprint Planning, Task Tracking |
+| **🔐 Security** | Authentication, Authorization, Data Encryption, Secure APIs, OWASP Guidelines |
+| **⚡ Performance** | Code Optimization, Lazy Loading, Caching, Performance Profiling |
 
 </div>
 
 ---
 
-## 📊 Development Activity & Contributions
+## 🌟 Featured Projects
 
-### 💻 Coding Activity
+### 🚗 [Vehicle Management System](https://github.com/Udai-Senevirathne/vehicle-management-system)
+> **Full Stack Mobile & Web Application**
 
-```text
-🌅 Morning    ████████░░░░░░░░░░░░   35% 
-🌆 Daytime    ████████████░░░░░░░░   55%
-🌃 Evening    ████░░░░░░░░░░░░░░░░   20%
-🌙 Night      ██░░░░░░░░░░░░░░░░░░   10%
-
-💼 Most Used Languages:
-Dart          ████████████░░░░░░░░   45%
-Java          ██████████░░░░░░░░░░   30%
-JavaScript    ████████░░░░░░░░░░░░   15%
-Python        ████░░░░░░░░░░░░░░░░   10%
-```
-
-### 🎯 Focus Areas (2026)
-- 🚀 Mastering Flutter advanced concepts
-- ☁️ Cloud architecture and deployment
-- 🤖 Integrating AI/ML in mobile apps
-- 🔐 Advanced security implementations
-- 📈 Scalable backend systems
+A comprehensive vehicle management solution built with modern technologies:
+- **Frontend**: React + Vite + TailwindCSS
+- **Mobile**: Flutter with advanced state management
+- **Backend**: Spring Boot REST APIs
+- **Database**: MySQL with optimized queries
+- **Features**: 
+  - Real-time vehicle tracking
+  - Maintenance scheduling
+  - User authentication & authorization
+  - Responsive design across all devices
+  - Admin dashboard with analytics
 
 ---
 
-## 🌐 Connect & Collaborate
+### 📱 [Mobile Point of Sale System](https://github.com/Udai-Senevirathne/pos-system)
+> **Flutter Mobile Application**
+
+Modern POS system designed for retail businesses:
+- Beautiful UI with custom animations
+- Offline-first architecture with Firebase sync
+- Inventory management
+- Sales analytics and reporting
+- Receipt generation and printing
+- Multi-user support with role-based access
+- **Tech**: Flutter, Dart, Firebase, Provider
+
+---
+
+### 🌐 [Portfolio Website](https://github.com/Udai-Senevirathne/portfolio)
+> **React Web Application**
+
+Personal portfolio showcasing projects and skills:
+- Modern, responsive design
+- Smooth animations and transitions
+- Dark/Light theme toggle
+- Interactive project gallery
+- Contact form with email integration
+- **Tech**: React, TypeScript, TailwindCSS, Framer Motion
+
+---
+
+## 🎓 Education & Certifications
 
 <div align="center">
 
-### 💬 Let's Build Something Amazing Together!
-
-I'm always excited to collaborate on innovative projects and connect with fellow developers!
-
-**Open to:**
-- 💼 Freelance opportunities
-- 🤝 Open source contributions
-- 👥 Team collaborations
-- 💡 Innovative project ideas
-- 📚 Knowledge sharing and mentorship
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Udai-Senevirathne)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaisenevirathne@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Udai-Senevirathne)
-
-### 📫 Response Time: Usually within 24 hours
+| 🎓 Degree/Certification | 🏛️ Institution | 📅 Year |
+|-------------------------|----------------|---------|
+| **BSc (Hons) in Software Engineering** | SLIIT - Sri Lanka Institute of Information Technology | 2023 - Present |
+| **Advanced Flutter Development** | Udemy | 2024 |
+| **Spring Boot Microservices** | Coursera | 2024 |
+| **React - The Complete Guide** | Udemy | 2023 |
 
 </div>
 
+---
+
+## 💼 What I'm Currently Working On
+
+- 🔨 Building a **comprehensive full-stack e-commerce platform** with Flutter, React, and Spring Boot
+- 📚 Learning **Kubernetes** and **advanced cloud architectures**
+- 🎯 Contributing to **open-source Flutter packages**
+- 🌱 Exploring **AI/ML integration** in mobile applications
+- 📝 Writing technical blogs about **mobile development best practices**
+
+---
+
+## 🤝 Let's Connect!
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Udai-Senevirathne&style=for-the-badge&color=blue" alt="Profile Views"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udai-senevirathne)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Udai-Senevirathne)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaisenevirathne@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://udai-portfolio.web.app)
+
+</div>
+
+---
+
+## 💭 Quote of the Day
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Udai-Senevirathne/Udai-Senevirathne/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
 
 <div align="center">
 
-### 💭 Developer Wisdom
+### 💙 Thanks for visiting my profile! Let's build something amazing together! 🚀
 
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
-
-**"First, solve the problem. Then, write the code."** – John Johnson
-
-**"Experience is the name everyone gives to their mistakes."** – Oscar Wilde
-
----
-
-### 🚀 Mission Statement
-
-*Building the future through innovative mobile and web solutions.*
-*Committed to writing clean, efficient, and maintainable code.*
-*Constantly learning, growing, and pushing boundaries.* 
-
----
-
-<sub>⭐ From [Udai-Senevirathne](https://github.com/Udai-Senevirathne) with 💙</sub>
-
-**Made with ❤️ and lots of ☕**
+![Profile Views](https://komarev.com/ghpvc/?username=Udai-Senevirathne&color=2D63FF&style=for-the-badge)
 
 </div>
