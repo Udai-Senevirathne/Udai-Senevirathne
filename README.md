@@ -1,20 +1,19 @@
-# 👋 Hello, I'm Udai Senevirathne!
-
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2D63FF&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;Mobile+%26+Web+Specialist+%F0%9F%92%BB;Flutter+%7C+React+%7C+Spring+Boot+Expert+%F0%9F%8E%AF;Passionate+About+Building+Amazing+Apps!+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2D63FF&center=true&vCenter=true&width=940&lines=Hello%2C+I'm+Udai+Senevirathne+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Mobile+%26+Web+Developer+%F0%9F%92%BB;Flutter+%7C+React+%7C+Spring+Boot+%7C+AIML+%F0%9F%8E%AF;Passionate+About+Building+Amazing+Apps!+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
+
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** specializing in **Mobile** and **Web Development**. With expertise in both frontend and backend technologies, I create seamless, scalable, and user-centric applications. Currently pursuing my degree in **Software Engineering** at **SLIIT** while working on innovative projects.
+I'm a passionate **Full Stack Developer** specializing in **Mobile** and **Web Development**. With experience in both frontend and backend technologies, I create seamless, scalable, and user-centric applications. Currently pursuing my degree in **Software Engineering** at **NIBM** while working on innovative projects.
 
-- 🎓 **Software Engineering Undergraduate** at SLIIT
+- 🎓 **Software Engineering Undergraduate** at NIBM
 - 💼 **Mobile & Web Developer** with hands-on project experience
-- 🌱 Currently mastering **Advanced Flutter**, **Spring Boot Microservices**, and **Cloud Architecture**
+- 🌱 Currently mastering **Mbile Developmentr**, **Web Development**, and **AIML**
 - 🎯 Goal: Build impactful applications that solve real-world problems
 - ⚡ Fun fact: I love exploring new technologies and contributing to open-source!
 
@@ -58,7 +57,7 @@ I'm a passionate **Full Stack Developer** specializing in **Mobile** and **Web D
 ### ☁️ Cloud & Services
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 
 ### 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -72,49 +71,7 @@ I'm a passionate **Full Stack Developer** specializing in **Mobile** and **Web D
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=Udai-Senevirathne&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Udai-Senevirathne&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Udai-Senevirathne&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Udai-Senevirathne&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-
----
-
-## 🔥 Contribution Graph
-
-<div align="center">
-
-[![Udai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Udai-Senevirathne&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 📈 Contribution Stats
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=Udai-Senevirathne&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
----
 
 ## 🏗️ Full Stack Development Mastery
 
@@ -126,7 +83,7 @@ graph TD
     A --> C[Frontend Development]
     A --> D[Backend Development]
     A --> E[Database & Cloud]
-    A --> F[DevOps & Tools]
+   
     
     B --> B1[Flutter/Dart]
     B --> B2[Native Android]
@@ -138,9 +95,8 @@ graph TD
     B1 --> B1d[Platform Integration]
     
     B1a --> B1a1[Bloc Pattern]
-    B1a --> B1a2[Provider]
-    B1a --> B1a3[Riverpod]
-    B1a --> B1a4[GetX]
+    B1a --> B1a2[Clean]
+    
     
     B2 --> B2a[Kotlin]
     B2 --> B2b[Java]
@@ -153,7 +109,7 @@ graph TD
     
     C1 --> C1a[Hooks]
     C1 --> C1b[Context API]
-    C1 --> C1c[Redux]
+    
     
     C4 --> C4a[Tailwind CSS]
     C4 --> C4b[Bootstrap]
@@ -166,7 +122,6 @@ graph TD
     
     D1 --> D1a[REST APIs]
     D1 --> D1b[Microservices]
-    D1 --> D1c[Spring Security]
     D1 --> D1d[JPA/Hibernate]
     
     E --> E1[SQL Databases]
@@ -199,12 +154,10 @@ graph TD
     F2 --> F2c[IntelliJ IDEA]
     
     F3 --> F3a[Figma]
-    F3 --> F3b[Adobe XD]
     F3 --> F3c[FlutterFlow]
     
     F4 --> F4a[Postman]
-    F4 --> F4b[JUnit]
-    F4 --> F4c[Jest]
+    
     
     F5 --> F5a[Docker]
     
@@ -227,7 +180,7 @@ graph TD
 **📱 Mobile Development**
 - 🎯 **Flutter & Dart**
   - Cross-platform apps
-  - State management (Bloc, Provider, Riverpod, GetX)
+  - State management (Bloc)
   - Custom widgets & animations
   - Platform channels
   - Hot reload development
@@ -236,12 +189,8 @@ graph TD
   - Kotlin & Java
   - Android SDK & Jetpack
   - Material Design
-  - Activity/Fragment lifecycle
   
-- 🍎 **iOS Development**
-  - Flutter iOS deployment
-  - Platform-specific features
-  - App Store guidelines
+    
 
 </td>
 <td width="33%">
@@ -251,7 +200,7 @@ graph TD
   - Modern React hooks
   - Component architecture
   - State management
-  - Context API & Redux
+  
   
 - 💻 **Web Technologies**
   - JavaScript ES6+
@@ -273,13 +222,7 @@ graph TD
   - RESTful APIs
   - Microservices
   - Spring Security
-  - JPA/Hibernate ORM
-  
-- 🐍 **Multi-language**
-  - Python scripting
-  - Node.js runtime
-  - PHP web development
-  - C# applications
+ 
   
 - 🔐 **Backend Features**
   - Authentication & Authorization
@@ -303,11 +246,11 @@ graph TD
   - MongoDB
   - Firebase Realtime DB
   - Firestore
+  - SupaBase
   
 - 🔍 **Database Skills**
   - Schema design
   - Query optimization
-  - Indexing strategies
   - Migrations
 
 </td>
@@ -317,14 +260,8 @@ graph TD
 - 🔥 **Firebase**
   - Authentication
   - Cloud Firestore
-  - Cloud Functions
   - Cloud Storage
-  - FCM Push Notifications
   
-- ☁️ **Cloud Platforms**
-  - AWS services
-  - Google Cloud Platform
-  - Hosting & deployment
   
 - 🌐 **Integration**
   - Third-party APIs
@@ -378,51 +315,6 @@ graph TD
 
 ---
 
-## 🌟 Featured Projects
-
-### 🚗 [Vehicle Management System](https://github.com/Udai-Senevirathne/vehicle-management-system)
-> **Full Stack Mobile & Web Application**
-
-A comprehensive vehicle management solution built with modern technologies:
-- **Frontend**: React + Vite + TailwindCSS
-- **Mobile**: Flutter with advanced state management
-- **Backend**: Spring Boot REST APIs
-- **Database**: MySQL with optimized queries
-- **Features**: 
-  - Real-time vehicle tracking
-  - Maintenance scheduling
-  - User authentication & authorization
-  - Responsive design across all devices
-  - Admin dashboard with analytics
-
----
-
-### 📱 [Mobile Point of Sale System](https://github.com/Udai-Senevirathne/pos-system)
-> **Flutter Mobile Application**
-
-Modern POS system designed for retail businesses:
-- Beautiful UI with custom animations
-- Offline-first architecture with Firebase sync
-- Inventory management
-- Sales analytics and reporting
-- Receipt generation and printing
-- Multi-user support with role-based access
-- **Tech**: Flutter, Dart, Firebase, Provider
-
----
-
-### 🌐 [Portfolio Website](https://github.com/Udai-Senevirathne/portfolio)
-> **React Web Application**
-
-Personal portfolio showcasing projects and skills:
-- Modern, responsive design
-- Smooth animations and transitions
-- Dark/Light theme toggle
-- Interactive project gallery
-- Contact form with email integration
-- **Tech**: React, TypeScript, TailwindCSS, Framer Motion
-
----
 
 ## 🎓 Education & Certifications
 
@@ -433,7 +325,7 @@ Personal portfolio showcasing projects and skills:
 | **BSc (Hons) in Software Engineering** | NIBM - National Institute of Business Management | 2023 - Present |
 | **Advanced Flutter Development** | Udemy | 2024 |
 | **Software Engineer** | Hackerrank | 2024 |
-| **React - The Complete Guide** | Udemy | 2023 |
+| **Rest API** | Hackerrank | 2024 |
 
 </div>
 
@@ -441,11 +333,11 @@ Personal portfolio showcasing projects and skills:
 
 ## 💼 What I'm Currently Working On
 
-- 🔨 Building a **comprehensive full-stack e-commerce platform** with Flutter, React, and Spring Boot
+- 🔨 Building a **comprehensive full-stack e-commerce platform** with Flutter, React, etc.
 - 📚 Learning **Kubernetes** and **advanced cloud architectures**
 - 🎯 Contributing to **open-source Flutter packages**
-- 🌱 Exploring **AI/ML integration** in mobile applications
-- 📝 Writing technical blogs about **mobile development best practices**
+- 🌱 Exploring **AI/ML integration** in Chatbots
+
 
 ---
 
