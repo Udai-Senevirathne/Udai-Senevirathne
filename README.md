@@ -430,9 +430,9 @@ Personal portfolio showcasing projects and skills:
 
 | 🎓 Degree/Certification | 🏛️ Institution | 📅 Year |
 |-------------------------|----------------|---------|
-| **BSc (Hons) in Software Engineering** | SLIIT - Sri Lanka Institute of Information Technology | 2023 - Present |
+| **BSc (Hons) in Software Engineering** | NIBM - National Institute of Business Management | 2023 - Present |
 | **Advanced Flutter Development** | Udemy | 2024 |
-| **Spring Boot Microservices** | Coursera | 2024 |
+| **Software Engineer** | Hackerrank | 2024 |
 | **React - The Complete Guide** | Udemy | 2023 |
 
 </div>
@@ -470,17 +470,9 @@ Personal portfolio showcasing projects and skills:
 
 </div>
 
----
 
-## 🐍 Contribution Snake
 
-<div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Udai-Senevirathne/Udai-Senevirathne/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 <div align="center">
 
