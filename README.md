@@ -1,9 +1,7 @@
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2D63FF&center=true&vCenter=true&width=940&lines=Hello%2C+I'm+Udai+Senevirathne+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Mobile+%26+Web+Developer+%F0%9F%92%BB;Flutter+%7C+React+%7C+Spring+Boot+%7C+AIML+%F0%9F%8E%AF;Passionate+About+Building+Amazing+Apps!+%E2%9C%A8)](https://git.io/typing-svg)
-
 </div>
-
 
 ---
 
@@ -72,7 +70,6 @@ I'm a passionate **Full Stack Developer** specializing in **Mobile** and **Web D
 </div>
 
 
-
 ## 🏗️ Full Stack Development Mastery
 
 <div align="center">
@@ -84,7 +81,6 @@ graph TD
     A --> D[Backend Development]
     A --> E[Database & Cloud]
    
-    
     B --> B1[Flutter/Dart]
     B --> B2[Native Android]
     B --> B3[iOS Development]
@@ -97,7 +93,6 @@ graph TD
     B1a --> B1a1[Bloc Pattern]
     B1a --> B1a2[Clean]
     
-    
     B2 --> B2a[Kotlin]
     B2 --> B2b[Java]
     B2 --> B2c[Android SDK]
@@ -109,7 +104,6 @@ graph TD
     
     C1 --> C1a[Hooks]
     C1 --> C1b[Context API]
-    
     
     C4 --> C4a[Tailwind CSS]
     C4 --> C4b[Bootstrap]
@@ -158,7 +152,6 @@ graph TD
     
     F4 --> F4a[Postman]
     
-    
     F5 --> F5a[Docker]
     
     style A fill:#2D63FF,stroke:#1a3d99,color:#fff
@@ -190,7 +183,6 @@ graph TD
   - Android SDK & Jetpack
   - Material Design
   
-    
 
 </td>
 <td width="33%">
@@ -222,7 +214,6 @@ graph TD
   - RESTful APIs
   - Microservices
   - Spring Security
- 
   
 - 🔐 **Backend Features**
   - Authentication & Authorization
@@ -261,7 +252,6 @@ graph TD
   - Authentication
   - Cloud Firestore
   - Cloud Storage
-  
   
 - 🌐 **Integration**
   - Third-party APIs
@@ -331,6 +321,20 @@ graph TD
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+### Live Deployments
+
+[![Spice Palace](https://img.shields.io/badge/🍽️_Spice_Palace-Visit_Site-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://spicepalace.vercel.app)
+[![2nd Eden POS](https://img.shields.io/badge/💼_2nd_Eden_POS-Visit_Site-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white)](https://2nd-eden-pos.vercel.app)
+[![E-Weddings Lanka](https://img.shields.io/badge/💍_E--Weddings_Lanka-Visit_Site-FFB6C1?style=for-the-badge&logo=vercel&logoColor=white)](https://e-weddings-lanka.vercel.app)
+
+</div>
+
+---
+
 ## 💼 What I'm Currently Working On
 
 - 🔨 Building a **comprehensive full-stack e-commerce platform** with Flutter, React, etc.
@@ -362,8 +366,6 @@ graph TD
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
-
 
 
 
