@@ -5,7 +5,9 @@
 
 ---
 
-## 🚀 About Me   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://udaiii.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://udaiii.vercel.app/)
+
+## 🚀 About Me   
 
 I'm a passionate **Full Stack Developer** specializing in **Mobile** and **Web Development**. With experience in both frontend and backend technologies, I create seamless, scalable, and user-centric applications. Currently pursuing my degree in **Software Engineering** at **NIBM** while working on innovative projects.
 
