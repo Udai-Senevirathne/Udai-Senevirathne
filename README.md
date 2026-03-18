@@ -21,6 +21,22 @@ I'm a passionate **Full Stack Developer** specializing in **Mobile** and **Web D
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+### Live Deployments
+
+[![Spice Palace](https://img.shields.io/badge/🍽️_Spice_Palace-Visit_Site-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://spicepalace.vercel.app)
+[![2nd Eden POS](https://img.shields.io/badge/💼_2nd_Eden_POS-Visit_Site-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white)](https://2nd-eden-pos.vercel.app)
+[![E-Weddings Lanka](https://img.shields.io/badge/💍_E--Weddings_Lanka-Visit_Site-FFB6C1?style=for-the-badge&logo=vercel&logoColor=white)](https://e-weddings-lanka.vercel.app)
+[![Saviyalearn](https://img.shields.io/badge/📚_Saviyalearn-Visit_Site-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://saviyalearn.vercel.app/)
+[![JW Photo](https://img.shields.io/badge/📸_JW_Photo-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jw-photo.vercel.app/)
+
+</div>
+
+---
+
 ## 💻 Tech Stack
 
 <div align="center">
@@ -325,19 +341,6 @@ graph TD
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### Live Deployments
-
-[![Spice Palace](https://img.shields.io/badge/🍽️_Spice_Palace-Visit_Site-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://spicepalace.vercel.app)
-[![2nd Eden POS](https://img.shields.io/badge/💼_2nd_Eden_POS-Visit_Site-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white)](https://2nd-eden-pos.vercel.app)
-[![E-Weddings Lanka](https://img.shields.io/badge/💍_E--Weddings_Lanka-Visit_Site-FFB6C1?style=for-the-badge&logo=vercel&logoColor=white)](https://e-weddings-lanka.vercel.app)
-
-</div>
-
----
 
 ## 💼 What I'm Currently Working On
 
