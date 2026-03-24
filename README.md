@@ -37,11 +37,11 @@ obsessions :
   - Flutter cross-platform magic
   - Clean architecture patterns
   - AI/ML integration
-  - Turning ideas → shipped products
+  - Web Development
 
 currently  :
   - 🔨 Building a full-stack e-commerce platform
-  - ☁️  Mastering Kubernetes & cloud architecture
+  - ☁️ Following a CCNA 
   - 🤖 Exploring AI/ML in chatbot development
   - 🌱 Contributing to open-source Flutter packages
 ```
